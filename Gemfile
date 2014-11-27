@@ -12,7 +12,6 @@ group :default do
 	gem 'turbolinks'
 	gem 'jbuilder', '~> 2.0'
 	gem 'bcrypt', '~> 3.1.7'
-	gem 'i18n_generators'
 	gem 'will_paginate', '~> 3.0'  # ページネーション機能
 	gem 'haml'
 	gem 'enum_help' #共用体を使用することが出来る
